@@ -1,1 +1,1 @@
-# motion-detection
+# MOTION DETECTION
