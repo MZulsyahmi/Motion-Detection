@@ -10,6 +10,6 @@ Using the LED as an output in presence of movements.
 # Adafruit MQTT
 ![adafruit](https://user-images.githubusercontent.com/44058064/49788672-eaa46780-fd64-11e8-8c34-c8aebabb943e.png)
 
-Connect the apps from the smartphone to the Adafruit MQTT.
+Connect to the Adafruit MQTT.
 Making the project become a Internet of Things.
 The MQTT can monitor and record the PIR sensor whenever a movement is detected
